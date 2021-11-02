@@ -1,0 +1,11 @@
+div.repo{  
+    margin: 10px;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    }
+h5 {
+    padding: 10px;
+    border: 1px solid black;
+}

@@ -1,0 +1,8 @@
+div.info{  margin: auto;
+    height: auto;
+    width: auto;
+    display: flex;
+    border: 1px solid black;
+    position: relative;
+    left: 180px;
+    }
