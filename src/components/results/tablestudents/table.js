@@ -1,10 +1,10 @@
 import './table.css';
 
-export const Table = () => {
+export const TableStudents = () => {
     return (
         <div className="tableee">
             <table>
-                <tr>
+                <tr className="head">
                     <th>Cognome</th>
                     <th>Nome</th>
                     <th>Utente_githb</th>

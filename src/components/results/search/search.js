@@ -1,6 +1,6 @@
 import './search.css';
 
-export const Search = () => {
+export const Search = (props) => {
     return (
         <div className="search">
             <p>Cerca: </p>

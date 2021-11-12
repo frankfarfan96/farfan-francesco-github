@@ -7,5 +7,6 @@ div.repo{
     }
 h5 {
     padding: 10px;
-    border: 1px solid black;
+    height: 50%;
+    border: 1px solid rgb(46, 116, 0);
 }

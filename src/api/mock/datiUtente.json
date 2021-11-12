@@ -4,7 +4,10 @@
             "Cognome": "Farfan",
             "Nome": "Francesco",
             "owner": "frankfarfan96",
-            "repos": "url/farfan-francesco-github",
+            "repos": [
+                "https://github.com/frankfarfan96/farfan-francesco-github.git",
+                "https://github.com/frankfarfan96/my-app.git"
+            ],
             "class": "Fullstack 2020/2021"
         }
     ]

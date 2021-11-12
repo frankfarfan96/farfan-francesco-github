@@ -1,7 +1,22 @@
+
+div.header{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
 div.logo{
-    margin: 15px 20px 17px 20px;
-    height: auto;
-    width: 100px;
+   width: 20%;
+}
+
+p#l{
+    margin: 0px;
+}
+
+div.lg{
+    width: 50%;
+    margin: 15px;
+    height: 50%;
     background-color: cornflowerblue;
     border: 1px solid rgb(0, 70, 175);
     color: aliceblue;

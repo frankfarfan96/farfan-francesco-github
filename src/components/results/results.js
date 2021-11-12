@@ -1,16 +1,14 @@
 import React from 'react';
 import './results.css';
 import { Repo } from "./repo/repo"
-import { Pages } from "./pages/pages"
-import { Table } from "./table/table"
+import { TableStudents } from "./tablestudents/table"
 
 
-export const Results = () => {
+export const Results = (props) => {
     return(
         <div className="body">
-         <Repo />
-         <Table />
-         <Pages />
+         <Repo totRepos={props.lenght}/>
+         <TableStudents />
         </div>
     )
 }
