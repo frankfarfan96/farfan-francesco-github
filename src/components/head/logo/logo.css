@@ -1,17 +1,10 @@
-
-div.header{
-    display: flex;
+div.header{display: flex;
     justify-content: space-between;
-    flex-wrap: wrap;
-}
+    flex-wrap: wrap;}
 
-div.logo{
-   width: 20%;
-}
+div.logo{width: 20%;}
 
-p#l{
-    margin: 0px;
-}
+p#l{ margin: 0px;}
 
 div.lg{
     width: 50%;
@@ -19,5 +12,4 @@ div.lg{
     height: 50%;
     background-color: cornflowerblue;
     border: 1px solid rgb(0, 70, 175);
-    color: aliceblue;
-}
+    color: aliceblue;}

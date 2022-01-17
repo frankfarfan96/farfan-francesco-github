@@ -1,14 +1,19 @@
+import React, { Component } from 'react';
 import './App.css';
 import {Head}  from "./components/head/head";
 import {Results}  from "./components/results/results";
 
-function App() {
+class App extends Component {
+
+  render(){
   return (
     <div className="App">    
-      <Head /> 
+      <Head  /> 
       <Results />
     </div>  
   );
+}
+
 }
 
 export default App;

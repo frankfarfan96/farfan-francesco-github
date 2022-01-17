@@ -15,17 +15,12 @@ export const TableStudents = () => {
                 </tr>
                 <tr>
                     <td>Farfan</td>
-                    <td>Francesco</td>
+                    <td>Frank</td>
                     <td>frankfarfan96</td>
                     <td>farfan-francesco-github</td>
                     <td>5</td>
                     <td>29/10/2021</td>
                     <td>29/10/2021</td>
-                </tr>
-                <tr>
-                    <td>...</td>
-                    <td>...</td>
-                    <td>...</td>
                 </tr>
             </table>
         </div>
